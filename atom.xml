@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[john hammond]]></title>
+  <link href="http://jvh1979.github.io/atom.xml" rel="self"/>
+  <link href="http://jvh1979.github.io/"/>
+  <updated>2014-10-28T09:56:47-04:00</updated>
+  <id>http://jvh1979.github.io/</id>
+  <author>
+    <name><![CDATA[john hammond]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Iron Yard]]></title>
+    <link href="http://jvh1979.github.io/blog/2014/10/28/the-iron-yard/"/>
+    <updated>2014-10-28T09:12:05-04:00</updated>
+    <id>http://jvh1979.github.io/blog/2014/10/28/the-iron-yard</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://jvh1979.github.io/blog/2014/10/27/first/"/>
+    <updated>2014-10-27T09:44:00-04:00</updated>
+    <id>http://jvh1979.github.io/blog/2014/10/27/first</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+
+<p>I&rsquo;m John, and I&rsquo;m a ruby on rails engineer.
+I grew up in North Myrtle Beach, SC.
+I currently reside in Charleston, SC.
+I am passionate about technology, food, and expression.</p>
+]]></content>
+  </entry>
+  
+</feed>
