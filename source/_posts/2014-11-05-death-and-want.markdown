@@ -21,5 +21,5 @@ These are my wants in a very short list.
 <li>I want to be the best father I can be.
 <li>I want to be the best co-worker I can be.
 <li>I want to be the best friend I can be.
-<li>I want to be the best human I can be.
-By just wanting whats best for me and those associated with me, I think it takes some of the pressure and anxiety out of it. With this news about Jeremy, it has made me focus and evaluate whats next for me. I'm thankful for that. I'm grateful for meeting Jeremy Dale and this is how I choose to remember him, by being better. That's how I choose to honor this awesome artist I know.
+<li>I want to be the best human I can be.<br>
+<br>By just wanting whats best for me and those associated with me, I think it takes some of the pressure and anxiety out of it. With this news about Jeremy, it has made me focus and evaluate whats next for me. I'm thankful for that. I'm grateful for meeting Jeremy Dale and this is how I choose to remember him, by being better. That's how I choose to honor this awesome artist I know.
