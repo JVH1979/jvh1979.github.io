@@ -16,26 +16,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://jvh1979.github.io/blog/2011/06/01/this-is-a-test/</loc>
+    <lastmod>2011-06-01T14:44:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://jvh1979.github.io/blog/archives/</loc>
-    <lastmod>2014-11-14T18:21:45-05:00</lastmod>
+    <lastmod>2014-11-14T20:18:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://jvh1979.github.io/</loc>
-    <lastmod>2014-11-14T18:21:45-05:00</lastmod>
+    <lastmod>2014-11-14T20:18:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://jvh1979.github.io/projects/</loc>
+    <lastmod>2014-11-14T20:18:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://jvh1979.github.io/about/</loc>
-    <lastmod>2014-11-14T18:21:45-05:00</lastmod>
+    <lastmod>2014-11-14T20:18:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://jvh1979.github.io/search.html</loc>
-    <lastmod>2014-11-14T18:21:45-05:00</lastmod>
+    <lastmod>2014-11-14T20:18:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
